@@ -1,4 +1,4 @@
-# Pauhu On-Device Models
+# Pauhu Models for Your Device
 
 Pauhu senses (reading, hearing, speaking, seeing) on your own device; the model pack is served by the Pauhu demo backend.
 
