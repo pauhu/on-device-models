@@ -1,4 +1,4 @@
-# Pauhu Models for Your Device
+# Pauhu Edge AI
 
 > Pauhu senses (reading, hearing, speaking, seeing) on your own device; the model pack is served by the Pauhu demo backend. Needs a free Pauhu developer key against the Pauhu demo backend; no key, no result.
 
